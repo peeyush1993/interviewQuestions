@@ -24,3 +24,4 @@ C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\net
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\logDetails.Log
