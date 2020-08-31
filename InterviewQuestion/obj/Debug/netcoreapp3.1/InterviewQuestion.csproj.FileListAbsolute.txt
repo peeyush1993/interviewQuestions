@@ -11,3 +11,16 @@ C:\Users\Peeyush_Anand\Source\Repos\InterviewQuestion\InterviewQuestion\obj\Debu
 C:\Users\Peeyush_Anand\Source\Repos\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
 C:\Users\Peeyush_Anand\Source\Repos\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
 C:\Users\Peeyush_Anand\Source\Repos\InterviewQuestion\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csprojAssemblyReference.cache
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache

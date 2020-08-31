@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peeyush_Anand\\Source\\Repos\\InterviewQuestion\\InterviewQuestion\\InterviewQuestion.csproj": {}
+    "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peeyush_Anand\\Source\\Repos\\InterviewQuestion\\InterviewQuestion\\InterviewQuestion.csproj": {
+    "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peeyush_Anand\\Source\\Repos\\InterviewQuestion\\InterviewQuestion\\InterviewQuestion.csproj",
+        "projectUniqueName": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj",
         "projectName": "InterviewQuestion",
-        "projectPath": "C:\\Users\\Peeyush_Anand\\Source\\Repos\\InterviewQuestion\\InterviewQuestion\\InterviewQuestion.csproj",
+        "projectPath": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj",
         "packagesPath": "C:\\Users\\Peeyush_Anand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peeyush_Anand\\Source\\Repos\\InterviewQuestion\\InterviewQuestion\\obj\\",
+        "outputPath": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
