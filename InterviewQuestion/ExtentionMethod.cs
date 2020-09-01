@@ -14,8 +14,8 @@ namespace InterviewQuestion
         {
             Singleton singleton = Singleton.GetSingletonInstance();
             singleton.MethodInSingletonClass();
-            Logger logger = Logger.GetLoggerInstance();
-            logger.ExceptionLogwriter("logging exception", 1);
+           // Logger logger = Logger.GetLoggerInstance();
+            //logger.ExceptionLogwriter("logging exception", 1);
             //will retrun existing singleton object;
             Singleton singleton2 = Singleton.GetSingletonInstance();
 
