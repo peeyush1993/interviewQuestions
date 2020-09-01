@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace InterviewQuestion
@@ -9,6 +10,11 @@ namespace InterviewQuestion
 
         static void Main(string[] args)
         {
+           
+            //palindrom
+            string s = "radar";
+            Console.WriteLine(s.Equals("radar") ? "This string is palindrom" : "no palindrom");
+           
             //ReverseEachWordOfSentence
             ReverseEachWordOfSentence revrs = new ReverseEachWordOfSentence();
             revrs.ReverseEachWord("this is the test");
