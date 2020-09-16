@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\InterviewQuestion.csproj",
-      "projectName": "InterviewQuestion",
-      "projectPath": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\InterviewQuestion.csproj",
+      "projectUniqueName": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\ConsoleCoreApplication.csproj",
+      "projectName": "ConsoleCoreApplication",
+      "projectPath": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\ConsoleCoreApplication.csproj",
       "packagesPath": "C:\\Users\\PEEYUSH\\.nuget\\packages\\",
       "outputPath": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\obj\\",
       "projectStyle": "PackageReference",

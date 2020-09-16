@@ -32,7 +32,6 @@ E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\Int
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
-E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csprojAssemblyReference.cache
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
 E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
