@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Net.Http.Headers;
 using System.Text;
 
 namespace InterviewQuestion
@@ -10,6 +11,11 @@ namespace InterviewQuestion
 
         static void Main(string[] args)
         {
+            LinqQuery linq = new LinqQuery();
+            linq.SelectQuery();
+
+
+           // Solution.PrintEvenOdd();
            
             //palindrom
             string s = "radar";

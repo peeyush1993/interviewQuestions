@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Peeyush_Anand\\.nuget\\packages\\": {},
+    "C:\\Users\\PEEYUSH\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj",
+      "projectUniqueName": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\InterviewQuestion.csproj",
       "projectName": "InterviewQuestion",
-      "projectPath": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\InterviewQuestion.csproj",
-      "packagesPath": "C:\\Users\\Peeyush_Anand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peeyush_Anand\\Desktop\\interviewCodeTest\\InterviewQuestion\\obj\\",
+      "projectPath": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\InterviewQuestion.csproj",
+      "packagesPath": "C:\\Users\\PEEYUSH\\.nuget\\packages\\",
+      "outputPath": "E:\\Peeyush-DELL\\interviewQuestions\\InterviewQuestion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Peeyush_Anand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PEEYUSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,10 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {},
-        "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dcsteamcity.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

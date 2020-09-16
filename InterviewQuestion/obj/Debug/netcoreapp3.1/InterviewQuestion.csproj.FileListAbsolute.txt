@@ -25,3 +25,17 @@ C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\net
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
 C:\Users\Peeyush_Anand\Desktop\interviewCodeTest\InterviewQuestion\bin\Debug\netcoreapp3.1\logDetails.Log
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.exe
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\logDetails.Log
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.deps.json
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.json
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.runtimeconfig.dev.json
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.dll
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\bin\Debug\netcoreapp3.1\InterviewQuestion.pdb
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csprojAssemblyReference.cache
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfoInputs.cache
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.AssemblyInfo.cs
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.csproj.CoreCompileInputs.cache
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.dll
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.pdb
+E:\Peeyush-DELL\interviewQuestions\InterviewQuestion\obj\Debug\netcoreapp3.1\InterviewQuestion.genruntimeconfig.cache
